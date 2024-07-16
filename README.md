@@ -1,0 +1,2 @@
+# Autonomous-Maze-Navigating-Robot-with-Body-Mounted-Sensors
+This repository contains the code and documentation for an autonomous robot capable of navigating a maze using body-mounted sensors. The robot's control system is implemented in C language, focusing on sensor data processing, decision-making algorithms, and motor control to achieve autonomous navigation through complex maze environments.
